@@ -14,7 +14,7 @@ an Ubuntu VM running on Vagrant with VirtualBox.
 
 1. Clone the repo
 
-    git clone https://github.com/rey/submarine.git ~/your-project
+        git clone https://github.com/rey/submarine.git ~/your-project
 
 2. `cd ~/your-project`
 3. `vagrant up`
