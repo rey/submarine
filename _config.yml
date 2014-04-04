@@ -1,0 +1,24 @@
+exclude: [
+  ".rvmrc",
+  ".rbenv-version",
+  "config.rb",
+  "CNAME",
+  "Procfile",
+  "README",
+  "Gemfile",
+  "Gemfile.lock",
+  "sass",
+  "Vagrantfile",
+  "bootstrap.sh"
+]
+
+title     : Project
+description   : a jekyll project
+author    :
+  name    : Rey Dhuny
+
+permalink : /:year/:month/:title.html
+
+encoding  : utf-8
+
+port      : 1122
